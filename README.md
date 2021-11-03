@@ -1,7 +1,7 @@
 ### Olá! Eu sou Cosme Pereira
 
-- 📖 Curso Graduação em Analise e Desenvolvimento de Sistemas
-- 🎈 Estudando Front-end
+- 📖 Cursando Fatec curso Analise e Desenvolvimento de Sistemas
+- 🎈 Estudando Javascript
 - 📫 Contate-me no email: cosmepsneto@gmail.com
 
 
